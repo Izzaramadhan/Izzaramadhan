@@ -16,11 +16,8 @@ I'm an **Informatics Student at Universitas Amikom Yogyakarta**, passionate abou
 ---
 
 ### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Izzaramadhan&show_icons=true&theme=radical&hide_border=true" alt="Izzuddin's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzaramadhan&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
-</p>
+![Izzuddin's Stats](https://github-readme-stats.vercel.app/api?username=Izzaramadhan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzaramadhan&layout=compact&theme=radical)
 
 ---
 
