@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-green?style=flat-square">
 </p>
 
-I'm an **Informatics Student at Universitas Amikom Yogyakarta**, passionate about building impactful software and exploring the world of **Artificial Intelligence**.
+I'm an **Informatics Student at Universitas Amikom Yogyakarta**, passionate about building impactful software and exploring the world of **Artificial Intelligence**. I love turning complex problems into elegant code.
 
 ---
 
@@ -21,9 +21,11 @@ I'm an **Informatics Student at Universitas Amikom Yogyakarta**, passionate abou
 
 ---
 
-### 📊 Contribution Graph
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Izzaramadhan&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Izzaramadhan&show_icons=true&theme=radical&rank_icon=github" alt="Izzuddin's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzaramadhan&layout=compact&theme=radical" alt="Top Langs" height="170" />
 </p>
 
 ---
