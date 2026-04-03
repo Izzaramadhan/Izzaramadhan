@@ -1,6 +1,12 @@
 # Hi there, I'm Izzuddin Akmal 👋
 
-I'm an **Informatics Student at Universitas Amikom Yogyakarta**, passionate about building impactful software and exploring the world of **Artificial Intelligence**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Informatics-Student-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/University-Amikom%20Yogyakarta-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-green?style=flat-square">
+</p>
+
+I'm an **Informatics Student at Universitas Amikom Yogyakarta**, passionate about building impactful software and exploring the world of **Artificial Intelligence**. I love turning complex problems into elegant code.
 
 ---
 
@@ -16,16 +22,21 @@ I'm an **Informatics Student at Universitas Amikom Yogyakarta**, passionate abou
 ---
 
 ### 📊 GitHub Stats
-![Izzuddin's Stats](https://github-readme-stats.vercel.app/api?username=Izzaramadhan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzaramadhan&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Izzaramadhan&show_icons=true&theme=radical&rank_icon=github" alt="Izzuddin's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzaramadhan&layout=compact&theme=radical" alt="Top Langs" height="170" />
+</p>
 
 ---
 
 ### 📫 Let's Connect!
 
-- 📧 **Email:** [izzuddinramadhan84@gmail.com](mailto:izzuddinramadhan84@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/izzuddin-akmal](https://www.linkedin.com/in/izzuddin-akmal)
-- 📸 **Instagram:** [@izzudnakml](https://instagram.com/izzudnakml)
+<p align="left">
+<a href="mailto:izzuddinramadhan84@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/izzuddin-akmal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/izzudnakml"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
